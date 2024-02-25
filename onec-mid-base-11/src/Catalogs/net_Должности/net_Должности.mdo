@@ -7,14 +7,14 @@
     <listType typeId="04945f39-fcf7-4115-8cda-8d79513a8c18" valueTypeId="8a41366b-20ac-4ea3-b1f3-de9bca798335"/>
     <managerType typeId="a5cf0757-4f57-411d-a28c-2f2ba894e1b5" valueTypeId="c71ce471-c27b-4463-b520-c5ec8b1602c2"/>
   </producedTypes>
-  <name>Должности</name>
+  <name>net_Должности</name>
   <synonym>
     <key>ru</key>
     <value>Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Должности.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Должности.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.net_Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.net_Должности.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -22,7 +22,7 @@
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
   <codeLength>9</codeLength>
-  <descriptionLength>25</descriptionLength>
+  <descriptionLength>50</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
   <checkUnique>true</checkUnique>
